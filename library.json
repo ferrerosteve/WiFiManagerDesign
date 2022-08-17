@@ -1,6 +1,6 @@
 {
     "name": "WifiManagerDesign",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Change the design of the WiFiManager",
     "keywords": "wifi",
     "repository":
@@ -20,6 +20,10 @@
     "dependencies": {
       "tzapu/WiFiManager": "^0.16.0"
     },
-    "frameworks": "*",
-    "platforms": "*"
+    "frameworks": "arduino",
+    "platforms": 
+    [
+      "espressif8266",
+      "espressif32"
+    ]
   }

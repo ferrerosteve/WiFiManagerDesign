@@ -2,6 +2,8 @@
 
 WiFi Configuration manager design with web configuration portal for ESP boards
 
+[![Build with PlatformIO](https://img.shields.io/badge/PlatformIO-Library-orange?)](https://registry.platformio.org/libraries/steve-ferrero/WifiManagerDesign/installation)
+
 [![ESP8266](https://img.shields.io/badge/ESP-8266-000000.svg?longCache=true&style=flat&colorA=CC101F)](https://www.espressif.com/en/products/socs/esp8266)
 [![ESP32](https://img.shields.io/badge/ESP-32-000000.svg?longCache=true&style=flat&colorA=CC101F)](https://www.espressif.com/en/products/socs/esp32)
 

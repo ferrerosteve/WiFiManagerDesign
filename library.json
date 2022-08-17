@@ -1,0 +1,25 @@
+{
+    "name": "WifiManagerDesign",
+    "version": "0.0.1",
+    "description": "Change the design of the WiFiManager",
+    "keywords": "wifi",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/ferrerosteve/WiFiManagerDesign.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Steve Ferrero",
+        "email": "ferrero.steve@gmail.com",
+        "url": "https://github.com/ferrerosteve"
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "tzapu/WiFiManager": "^0.16.0"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }

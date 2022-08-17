@@ -2,7 +2,7 @@
     "name": "WifiManagerDesign",
     "version": "0.0.2",
     "description": "Change the design of the WiFiManager",
-    "keywords": "wifi",
+    "keywords": "wifi,esp8266,esp32",
     "repository":
     {
       "type": "git",
